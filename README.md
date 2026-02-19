@@ -1,2 +1,3 @@
 # Identifying-Serious-Medical-Conditions-at-an-Early-Stage-Using-AI
 The goal is to improve early diagnosis, reduce mortality rates, lower healthcare costs, and support doctors in making faster and more accurate decisions.
+This project focuses on developing an Artificial Intelligence (AI) system that can detect serious medical conditions at an early stage using patient data. The system analyzes medical records, symptoms, lab results, imaging data, and wearable device information to identify patterns that may indicate diseases such as cancer, heart disease, diabetes, and neurological disorders.
